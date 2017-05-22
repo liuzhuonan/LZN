@@ -1,0 +1,2 @@
+# LZN
+my blog
